@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sharmajyoti4699/monsterRolodex/static/css/main.84fd6072.css",
+    "main.js": "/sharmajyoti4699/monsterRolodex/static/js/main.1759ec78.js",
+    "static/js/787.bee243e6.chunk.js": "/sharmajyoti4699/monsterRolodex/static/js/787.bee243e6.chunk.js",
+    "index.html": "/sharmajyoti4699/monsterRolodex/index.html",
+    "main.84fd6072.css.map": "/sharmajyoti4699/monsterRolodex/static/css/main.84fd6072.css.map",
+    "main.1759ec78.js.map": "/sharmajyoti4699/monsterRolodex/static/js/main.1759ec78.js.map",
+    "787.bee243e6.chunk.js.map": "/sharmajyoti4699/monsterRolodex/static/js/787.bee243e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84fd6072.css",
+    "static/js/main.1759ec78.js"
+  ]
+}
